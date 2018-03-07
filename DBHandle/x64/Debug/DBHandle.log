@@ -1,0 +1,12 @@
+﻿  main.cpp
+f:\odb\libodb-2.4.0\odb\exception.hxx(19): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 struct“odb::exception”的基
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: 参见“std::exception”的声明
+  f:\odb\libodb-2.4.0\odb\exception.hxx(19): note: 参见“odb::exception”的声明
+f:\cplusplus\odb\dbhandle\student.hxx(8): warning C4068: 未知的杂注
+f:\cplusplus\odb\dbhandle\student.hxx(41): warning C4068: 未知的杂注
+f:\cplusplus\odb\dbhandle\student.hxx(47): warning C4068: 未知的杂注
+f:\cplusplus\odb\dbhandle\student.hxx(50): warning C4068: 未知的杂注
+f:\cplusplus\odb\dbhandle\student.hxx(52): warning C4068: 未知的杂注
+f:\cplusplus\odb\dbhandle\student.hxx(54): warning C4068: 未知的杂注
+  DBHandle.vcxproj -> F:\cplusplus\ODB\x64\Debug\DBHandle.exe
+  DBHandle.vcxproj -> F:\cplusplus\ODB\x64\Debug\DBHandle.pdb (Full PDB)

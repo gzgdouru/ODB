@@ -1,0 +1,13 @@
+﻿  mian.cpp
+f:\odb\libodb-2.4.0\odb\exception.hxx(19): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 struct“odb::exception”的基
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: 参见“std::exception”的声明
+  f:\odb\libodb-2.4.0\odb\exception.hxx(19): note: 参见“odb::exception”的声明
+f:\cplusplus\odb\studenttest\student.hxx(8): warning C4068: 未知的杂注
+f:\cplusplus\odb\studenttest\student.hxx(41): warning C4068: 未知的杂注
+f:\cplusplus\odb\studenttest\student.hxx(47): warning C4068: 未知的杂注
+f:\cplusplus\odb\studenttest\student.hxx(50): warning C4068: 未知的杂注
+f:\cplusplus\odb\studenttest\student.hxx(52): warning C4068: 未知的杂注
+f:\cplusplus\odb\studenttest\student.hxx(54): warning C4068: 未知的杂注
+f:\cplusplus\odb\studenttest\mian.cpp(101): error C2664: “void odb::database::erase<student>(student *const &)”: 无法将参数 1 从“std::string”转换为“const odb::access::object_traits<student>::id_type &”
+  f:\cplusplus\odb\studenttest\mian.cpp(101): note: 原因如下: 无法从“std::string”转换为“const odb::access::object_traits<student>::id_type”
+  f:\cplusplus\odb\studenttest\mian.cpp(101): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
